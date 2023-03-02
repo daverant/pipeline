@@ -2,7 +2,7 @@
 public class FailingTests {
 
     @isTest static void test1() {
-        System.assertEquals(1, 3);         
+        System.assertEquals(1, 2);         
     }
     
     @isTest static void test2() {
