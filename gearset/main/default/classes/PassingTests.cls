@@ -8,4 +8,8 @@ public class PassingTests {
     @isTest static void test2() {
         System.assertEquals(2, 2);
     }
+    
+    @isTest static void test4() {
+        System.assertEquals(4, 4);
+    }
 }
