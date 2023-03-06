@@ -12,4 +12,8 @@ public class PassingTests {
     @isTest static void test4() {
         System.assertEquals(4, 4);
     }
+    
+    @isTest static void test4() {
+        System.assertEquals(4, 4);
+    }
 }
