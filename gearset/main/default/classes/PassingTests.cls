@@ -10,6 +10,6 @@ public class PassingTests {
     }
     
     @isTest static void test3() {
-        System.assertEquals(1, 1);
+        System.assertEquals(5, 5);
     }
 }
