@@ -2,7 +2,7 @@
 public class PassingTests {
 
     @isTest static void test1() {
-         System.assertEquals(7, 7);
+         System.assertEquals(4, 4);
     }
     
     @isTest static void test2() {
@@ -10,6 +10,6 @@ public class PassingTests {
     }
     
     @isTest static void test3() {
-        System.assertEquals(1, 1);
+        System.assertEquals(5, 5);
     }
 }
